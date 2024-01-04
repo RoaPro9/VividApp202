@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F2706E24-D611-4EF0-836D-A463268BE6F6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B580F82-E772-4ACD-A801-AA270770AF57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vivid/Onboarding+SplashScreen/Onboarding.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC954AB1-F850-4A58-9547-87D67E6C0E8D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vivid/View/ARDrawView/ARDrawView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "drawFromArray(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC954AB1-F850-4A58-9547-87D67E6C0E8D - 13a89bcfe866e219"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Vivid.ARDrawView.drawFromArray(Swift.Array&lt;(data: Swift.Array&lt;Foundation.Data&gt;, location: __C.CLLocation)&gt;) -&gt; ()"
+                  moduleName = "Vivid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jumanah/Downloads/VividApp%202/Vivid/View/ARDrawView/ARDrawView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "424">
+               </Location>
+               <Location
+                  uuid = "EC954AB1-F850-4A58-9547-87D67E6C0E8D - 13a89bcfe866e219"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Vivid.ARDrawView.drawFromArray(Swift.Array&lt;(data: Swift.Array&lt;Foundation.Data&gt;, location: __C.CLLocation)&gt;) -&gt; ()"
+                  moduleName = "Vivid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jumanah/Downloads/VividApp%202/Vivid/View/ARDrawView/ARDrawView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A85C3315-E344-49AD-BB8A-A98BB2A71291"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vivid/View/ARDrawView/ARDrawView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "addLine(from:to:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A85C3315-E344-49AD-BB8A-A98BB2A71291 - ea6205a683252515"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Vivid.ARDrawView.addLine(from: __C.SCNVector3, to: __C.SCNVector3) -&gt; ()"
+                  moduleName = "Vivid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jumanah/Downloads/VividApp%202/Vivid/View/ARDrawView/ARDrawView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "A85C3315-E344-49AD-BB8A-A98BB2A71291 - ea6205a683252515"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Vivid.ARDrawView.addLine(from: __C.SCNVector3, to: __C.SCNVector3) -&gt; ()"
+                  moduleName = "Vivid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jumanah/Downloads/VividApp%202/Vivid/View/ARDrawView/ARDrawView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
