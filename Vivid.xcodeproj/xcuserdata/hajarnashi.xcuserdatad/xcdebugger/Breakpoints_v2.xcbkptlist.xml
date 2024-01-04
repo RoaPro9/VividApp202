@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "16CEF0B7-F8CA-4838-B97E-A04AF4B5C0F9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A4DA203-5DBA-46D9-8ED9-823B143BFA75"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Vivid/ManagerFiles/LocationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A4DA203-5DBA-46D9-8ED9-823B143BFA75 - 5d3118d84fedc01c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Vivid.MapViewModel.checkLocationAuthorization() -&gt; ()"
+                  moduleName = "Vivid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hajarnashi/Downloads/VividApp%20LAST%20VIRSION/Vivid/ManagerFiles/LocationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "1A4DA203-5DBA-46D9-8ED9-823B143BFA75 - 713725358d444177"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Vivid.MapViewModel_1.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "Vivid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hajarnashi/Downloads/VividApp%20LAST%20VIRSION/Vivid/ManagerFiles/LocationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
